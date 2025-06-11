@@ -1,0 +1,11 @@
+#count{
+    font-weight: bold;
+}
+
+div{
+    display: flex !important;
+}
+
+#logo{
+    background-size: 200px 200px;
+}
